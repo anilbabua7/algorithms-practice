@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author oyo
+ *
+ */
+module test {
+}
